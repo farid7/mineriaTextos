@@ -1,0 +1,8 @@
+el raton corre
+el raton come
+
+el gato corre
+el gato come
+
+el perro corre
+el perro come
